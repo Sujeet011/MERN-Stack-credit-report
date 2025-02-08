@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CreditReports>
+    <CreditReport>
+        <PersonalDetails>
+            <Name>Michael Johnson</Name>
+            <Phone>+1122334455</Phone>
+            <PAN>LMNOP9876K</PAN>
+        </PersonalDetails>
+        <Score>720</Score>
+        <Summary>
+            <TotalAccounts>6</TotalAccounts>
+            <ActiveAccounts>4</ActiveAccounts>
+            <ClosedAccounts>2</ClosedAccounts>
+            <CurrentBalance>80000</CurrentBalance>
+            <SecuredAmount>50000</SecuredAmount>
+            <UnsecuredAmount>30000</UnsecuredAmount>
+            <Last7DaysEnquiries>2</Last7DaysEnquiries>
+        </Summary>
+        <CreditAccounts>
+            <Account>
+                <CreditCard>MasterCard Gold</CreditCard>
+                <Bank>State Bank of India</Bank>
+                <Address>456 Elm Street, California</Address>
+                <AccountNumber>9876543210</AccountNumber>
+                <AmountOverdue>2000</AmountOverdue>
+                <CurrentBalance>15000</CurrentBalance>
+            </Account>
+            <Account>
+                <CreditCard>Visa Platinum</CreditCard>
+                <Bank>HDFC Bank</Bank>
+                <Address>789 Oak Avenue, New York</Address>
+                <AccountNumber>1239876543</AccountNumber>
+                <AmountOverdue>500</AmountOverdue>
+                <CurrentBalance>8000</CurrentBalance>
+            </Account>
+        </CreditAccounts>
+    </CreditReport>
+
+    <CreditReport>
+        <PersonalDetails>
+            <Name>Emily Davis</Name>
+            <Phone>+9988776655</Phone>
+            <PAN>ZYXWV5432Q</PAN>
+        </PersonalDetails>
+        <Score>780</Score>
+        <Summary>
+            <TotalAccounts>4</TotalAccounts>
+            <ActiveAccounts>2</ActiveAccounts>
+            <ClosedAccounts>2</ClosedAccounts>
+            <CurrentBalance>60000</CurrentBalance>
+            <SecuredAmount>25000</SecuredAmount>
+            <UnsecuredAmount>35000</UnsecuredAmount>
+            <Last7DaysEnquiries>1</Last7DaysEnquiries>
+        </Summary>
+        <CreditAccounts>
+            <Account>
+                <CreditCard>American Express Black</CreditCard>
+                <Bank>ICICI Bank</Bank>
+                <Address>101 Maple Road, Texas</Address>
+                <AccountNumber>5556667778</AccountNumber>
+                <AmountOverdue>0</AmountOverdue>
+                <CurrentBalance>20000</CurrentBalance>
+            </Account>
+        </CreditAccounts>
+    </CreditReport>
+</CreditReports>

@@ -1,0 +1,20 @@
+
+<CreditReports>
+    <CreditReport>
+        <PersonalDetails>
+            <Name>John Doe</Name>
+            <Phone>+1234567890</Phone>
+            <PAN>ABCDE1234F</PAN>
+        </PersonalDetails>
+        <Score>750</Score>
+        <Summary>
+            <TotalAccounts>5</TotalAccounts>
+            <ActiveAccounts>3</ActiveAccounts>
+            <ClosedAccounts>2</ClosedAccounts>
+            <CurrentBalance>50000</CurrentBalance>
+            <SecuredAmount>30000</SecuredAmount>
+            <UnsecuredAmount>20000</UnsecuredAmount>
+            <Last7DaysEnquiries>1</Last7DaysEnquiries>
+        </Summary>
+    </CreditReport>
+</CreditReports>
